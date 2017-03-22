@@ -3,3 +3,7 @@
 /***************************************************************************/
 * What happens when you initialize a repository? Why do you need to do it?
 	- Se crean un nuevo snapshot de la carpeta que estamos iniciando en GIT.
+
+* How is the staging area different from the working directory and the repository?
+  What value do you think it offers?
+  	- Staging Area is a step after commit changes.
