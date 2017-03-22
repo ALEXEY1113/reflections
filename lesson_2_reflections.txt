@@ -7,3 +7,7 @@
 * How is the staging area different from the working directory and the repository?
   What value do you think it offers?
   	- Staging Area is a step after commit changes.
+
+* How can you use the staging area to make sure you have one commit per logical
+  change?
+  	- With the git command "git add some.file" and these file (s) are in Staging Area.
