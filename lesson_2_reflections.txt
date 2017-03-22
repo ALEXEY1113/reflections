@@ -20,5 +20,11 @@
 * How do the diagrams help you visualize the branch structure?
 	- Based on Id commits.
 
+* What is the result of merging two branches together? Why do we represent it in
+  the diagram the way we do?
+  	- The result is one branch with the others commiters.
+  	- Because it is more simple explain the way of merge branchs.
+
+
 
 
