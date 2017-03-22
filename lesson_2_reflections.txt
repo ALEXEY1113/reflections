@@ -17,4 +17,8 @@
   	- Situations for differents variants for the game i.e. Other language, Easy Mode.
   	- Try development a defferent features without modify the original game.
 
+* How do the diagrams help you visualize the branch structure?
+	- Based on Id commits.
+
+
 
