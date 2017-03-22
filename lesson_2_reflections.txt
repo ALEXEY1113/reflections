@@ -25,6 +25,18 @@
   	- The result is one branch with the others commiters.
   	- Because it is more simple explain the way of merge branchs.
 
+* What are the pros and cons of Git's automatic merging vs. always doing merges
+  manually?
+  	|AUTOMATIC|
+  	+ PROS
+  		- No need intervention human.
+  	+ CONS
+  		- Merging conflicts.
 
+  	|MANUALLY|
+  	+ PROS
+  		- You can resolve the conflicts into mergings files and verify efficiently.
+  	+ CONS
+  		- Take time with many files at same times.
 
 
