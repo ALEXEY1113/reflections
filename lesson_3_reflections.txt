@@ -10,3 +10,7 @@
 	- Forks: 	It is only used into github to github.
 	- Clones:	For downloading a copy into your machine of an repository.
 	- Branches:	Differents features into to same repository.
+
+* What is the benefit of having a copy of the last known state of the remote stored locally?
+	- Resolve conflicts on files.
+	- Have last updates from other contributors.
